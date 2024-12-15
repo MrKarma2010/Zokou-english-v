@@ -24,7 +24,7 @@
     },
     "AUTO_DOWNLOAD_STATUS": {
       "description": "Your contact status will be download automatically and send to you(type yes to active or no to deactive ; don't write in capital letter)",
-      "value": "yes",
+      "value": "no",
       "required": false
     },
     "PM_PERMIT": {
@@ -34,7 +34,7 @@
     },
     "BOT_NAME": {
       "description": "put A name for your bot",
-      "value": "Zokou-MD",
+      "value": "𓄂⍣⃝𝐆𝚯𝐃𝄟✮͢≛𝚰𝚭𝐔𝚴𝚫𝄟✮⃝ MD",
       "required": false
     },
     "BOT_MENU_LINKS": {
@@ -61,9 +61,9 @@
       "required": true
     },
     "OWNER_NAME": {
-      "desc": "Your Name",
+      "desc": "𓄂⍣⃝𝐆𝚯𝐃𝄟✮͢≛𝚰𝚭𝐔𝚴𝚫𝄟✮⃝",
       "required": false,
-      "value": "Djalega++"
+      "value": "𓄂⍣⃝𝐆𝚯𝐃𝄟✮͢≛𝚰𝚭𝐔𝚴𝚫𝄟✮⃝"
     },
     "NUMERO_OWNER": {
       "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
@@ -92,13 +92,13 @@
     },
     "ANTI_VIEW_ONCE": {
       "description": "Put yes if you want to receive in pm all view once content",
-      "required": false,
-      "value": "no"
+      "required":true,
+      "value": "yes"
     },
       "ANTI_COMMAND_SPAM" : {
         "description":"active a cooldown of 10sec to every-user after a command to avoid spamming unless owner and mods",
         "required":false,
-        "value" :"no"
+        "value" :"He's"
       }
   },
   "formation": {
